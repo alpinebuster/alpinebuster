@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <div align="center">
   <h1>🐱‍👤Hi there</h1>
-  <p><strong>The Viewer</strong> is a zero-footprint medical image viewer. It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support <a href="https://www.dicomstandard.org/dicomweb/">DICOMweb</a>.</p>
+  <p><strong>The past</strong> is not my concern. The future is no longer my concern, either. <a href="https://www.imdb.com/title/tt2442560/">Tommy</a>.</p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/imqzzZ)
