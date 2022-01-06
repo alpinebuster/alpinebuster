@@ -1,6 +1,11 @@
-### Hi there 👋
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<div align="center">
+  <h1>🐱‍👤Hi there</h1>
+  <p><strong>The Viewer</strong> is a zero-footprint medical image viewer. It is a configurable and extensible progressive web application with out-of-the-box support for image archives which support <a href="https://www.dicomstandard.org/dicomweb/">DICOMweb</a>.</p>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/imqzzZ)
 
 - 🔭 I’m currently studying at SCU
 - 🌱 I’m currently learning everything
