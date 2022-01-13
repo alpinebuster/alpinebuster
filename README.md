@@ -2,7 +2,7 @@
 <!-- markdownlint-disable -->
 <div align="center">
   <h1>🐱‍👤Hi there</h1>
-  <p><strong>The past</strong> is not my concern. The future is no longer my concern, either. <a href="https://www.imdb.com/title/tt2442560/">Tommy</a>.</p>
+  <p>I am <strong><a href="https://github.com/imzqqq/">Zhang</a></strong>.</p>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/imqzzZ)
