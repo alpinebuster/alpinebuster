@@ -5,7 +5,7 @@
   <p>I am <strong><a href="https://github.com/imzqqq/">Zhang</a></strong>.</p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/imqzzZ)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/chat)
 
 - 🔭 I’m currently studying at SCU
 - 🌱 I’m currently learning everything
