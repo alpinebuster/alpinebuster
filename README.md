@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <div align="center">
-  <h1>🐱‍👤 Ciao ~</h1>
+  <h1>🤯 Ciao ~</h1>
   <p>I am <strong><a href="https://github.com/imzqqq/">z</a></strong>.</p>
 </div>
 
