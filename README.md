@@ -5,7 +5,7 @@
   <p>I am <strong><a href="https://github.com/imzqqq/">z</a></strong>.</p>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imzqqq&layout=compact)](https://github.com/imzqqq/chat.git)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/imzqqq/langs?time_range=three_months&include_private=true&compact=true)](https://githubtrends.io)
 
 - 🔭 I’m currently studying at SCU
 - 👯 I’m looking to collaborate on [Matrix Protocol](https://matrix.org) & ML
