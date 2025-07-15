@@ -10,6 +10,4 @@
   <img alt="github-snake" src="https://github.com/alpinebuster/alpinebuster/blob/output/github-snake.svg" />
 </picture>
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/imzqqq/langs?time_range=three_months&include_private=true&compact=true)](https://githubtrends.io)
-
 - 📫 imzqqq@hotmail.com
