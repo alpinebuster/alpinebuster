@@ -10,4 +10,4 @@
   <img alt="github-snake" src="https://github.com/alpinebuster/alpinebuster/blob/output/github-snake.svg" />
 </picture>
 
-- 📫 imzqqq@hotmail.com
+📫 imzqqq@hotmail.com
