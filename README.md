@@ -2,7 +2,9 @@
 <!-- markdownlint-disable -->
 <div align="center">
   <h1>Ciao ~</h1>
-  <p>📫 imzqqq@hotmail.com 📫</p>
+  <p>📫📫📫📫📫📫📫📫📫📫📫📫</p>
+  <p>imzqqq@hotmail.com</p>
+  <p>📫📫📫📫📫📫📫📫📫📫📫📫</p>
 </div>
 
 <div align="center">
